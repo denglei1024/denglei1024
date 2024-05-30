@@ -42,10 +42,11 @@
 - [Node.js开发实践指南](https://johndoe.com/blog/node-guide)
 - [Python数据分析入门](https://johndoe.com/blog/intro-to-data-analysis)
 -->
-
+<!--
 ---
 
 ### 📊 GitHub统计数据
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=denglei1024&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denglei1024&theme=tokyonight" />
+-->
