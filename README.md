@@ -6,7 +6,6 @@
 
 我是一名后端开发者，热爱编程和探索新技术。目前专注于Web开发，擅长C#、Java。
 
----
 
 ### 🧰 技术栈
 
@@ -17,12 +16,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
+#### 🚀 我最近学习的内容：[学习跟踪](https://github.com/denglei1024/learning-tracker.git)
 <!--
 ---
 
 ### 🔥 我的最新项目
 
-#### 🚀 [项目1名称](https://github.com/johndoe/project1)
+#### 🚀 [我学习跟踪](https://github.com/denglei1024/learning-tracker.git)
 
 项目1是一个基于React和Node.js的Web应用程序,用于...主要功能包括...
 
@@ -33,8 +33,6 @@
 #### 🚀 [项目3名称](https://github.com/johndoe/project3)
 
 项目3是一个基于Java的桌面应用程序,能够... -->
-
----
 <!--
 ### ⚡ 最新文章
 
