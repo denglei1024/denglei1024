@@ -11,10 +11,6 @@
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=CSharp)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 #### 🚀 我最近学习的内容：[学习跟踪](https://github.com/denglei1024/learning-tracker.git)
 <!--
