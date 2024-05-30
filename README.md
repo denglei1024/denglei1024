@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning
+### 嗨 👋
+- 🌱 我正在学习
   - 基于Semantic Kernel和Azure OpenAI构建AI应用
 <!--
 **denglei1024/denglei1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
