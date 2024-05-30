@@ -1,10 +1,10 @@
-### 👋 你好,我是邓磊
+### 👋 你好，我是邓磊
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-JohnDoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johndoe/)](https://www.linkedin.com/in/johndoe/)
 [![Twitter Badge](https://img.shields.io/badge/-@johndoe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johndoe)](https://twitter.com/johndoe)
 [![Gmail Badge](https://img.shields.io/badge/-johndoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johndoe@gmail.com)](mailto:johndoe@gmail.com)-->
 
-我是一名后端开发者,热爱编程和探索新技术。目前专注于Web开发,擅长C#、Java。
+我是一名后端开发者，热爱编程和探索新技术。目前专注于Web开发，擅长C#、Java。
 
 ---
 
