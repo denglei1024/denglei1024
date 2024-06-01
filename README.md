@@ -13,15 +13,13 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
 #### 🚀 我最近学习的内容：[学习跟踪](https://github.com/denglei1024/learning-tracker.git)
-<!--
----
 
 ### 🔥 我的最新项目
 
-#### 🚀 [我学习跟踪](https://github.com/denglei1024/learning-tracker.git)
+#### 🚀 [solo-blogger](https://github.com/denglei1024/solo-blogger.git)
 
-项目1是一个基于React和Node.js的Web应用程序,用于...主要功能包括...
-
+solo-blogger 是一个基于 Spring Boot 和 Vue 的Web应用程序，是一个单用户的博客系统。
+<!--
 #### 🚀 [项目2名称](https://github.com/johndoe/project2)  
 
 项目2是一款使用Python和Django框架开发的博客系统...
