@@ -12,8 +12,6 @@
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=CSharp)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
-#### 🚀 我最近学习的内容：[学习跟踪](https://github.com/denglei1024/learning-tracker.git)
-
 ### 🔥 我的最新项目
 
 #### 🚀 [solo-blogger](https://github.com/denglei1024/solo-blogger.git)
