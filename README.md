@@ -9,8 +9,8 @@
 
 ### 🧰 技术栈
 
-![C#](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=CSharp)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=Java)
+![C#](https://img.shields.io/badge/-c%23-blue?style=flat-square&logo=microsoft)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=openjdk)
 
 ### 🔥 我的最新项目
 
