@@ -11,13 +11,13 @@
 
 ![C#](https://img.shields.io/badge/-c%23-blue?style=flat-square&logo=microsoft)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=openjdk)
-
+<!--
 ### 🔥 我的最新项目
 
 #### 🚀 [solo-blogger](https://github.com/denglei1024/solo-blogger.git)
 
 solo-blogger 是一个基于 Spring Boot 和 Vue 的Web应用程序，是一个单用户的博客系统。
-<!--
+
 #### 🚀 [项目2名称](https://github.com/johndoe/project2)  
 
 项目2是一款使用Python和Django框架开发的博客系统...
