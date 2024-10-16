@@ -1,42 +1,24 @@
-### 👋 你好，我是邓磊
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-JohnDoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johndoe/)](https://www.linkedin.com/in/johndoe/)
-[![Twitter Badge](https://img.shields.io/badge/-@johndoe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johndoe)](https://twitter.com/johndoe)
-[![Gmail Badge](https://img.shields.io/badge/-johndoe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johndoe@gmail.com)](mailto:johndoe@gmail.com)-->
-
-我是一名后端开发者，热爱编程和探索新技术。目前专注于Web开发，擅长C#、Java。
-
-
-### 🧰 技术栈
-
-![C#](https://img.shields.io/badge/-c%23-blue?style=flat-square&logo=microsoft)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=openjdk)
-<!--
-### 🔥 我的最新项目
-
-#### 🚀 [solo-blogger](https://github.com/denglei1024/solo-blogger.git)
-
-solo-blogger 是一个基于 Spring Boot 和 Vue 的Web应用程序，是一个单用户的博客系统。
-
-#### 🚀 [项目2名称](https://github.com/johndoe/project2)  
-
-项目2是一款使用Python和Django框架开发的博客系统...
-
-#### 🚀 [项目3名称](https://github.com/johndoe/project3)
-
-项目3是一个基于Java的桌面应用程序,能够... -->
-<!--
-### ⚡ 最新文章
-
-- [如何优化React应用的性能](https://johndoe.com/blog/react-perf-optimizations)
-- [Node.js开发实践指南](https://johndoe.com/blog/node-guide)
-- [Python数据分析入门](https://johndoe.com/blog/intro-to-data-analysis)
--->
-<!--
----
-
-### 📊 GitHub统计数据
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=denglei1024&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denglei1024&theme=tokyonight" />
--->
+<h1>Hi 👋, I'm Ryan</h1>
+<p>A backend developer from China</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
