@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I'm Deng Lei</h1>
-- 📫 How to reach me **denglei1024@foxmail.com**
+<h1 align="left">Hi👋, I'm Deng Lei</h1>
+📫 How to reach me ** denglei1024@foxmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
