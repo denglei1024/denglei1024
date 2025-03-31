@@ -1,3 +1,8 @@
 <h1 align="left">Hi👋, I'm Deng Lei</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denglei1024&show_icons=true&locale=en&layout=compact" alt="denglei1024" /></p>
+## ℹ About me
+- Have a passion for software development and automation.
+- Been writing code for over 10 years; since ~2014.
+## 🍨 Content
+[My blog about programming and productivity tools.](https://denglei1024.github.io/)
+
