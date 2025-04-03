@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Deng Lei</h1>
+<h1 align="left">嗨👋, 我是邓磊，一个软件开发工程师</h1>
 
 ## ℹ 关于我
 - 热爱软件开发和自动化
