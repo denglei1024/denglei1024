@@ -1,6 +1,6 @@
 <h1 align="left">嗨👋, 我叫邓磊</h1>
 
-🚀 技术栈：C#/.NET | ASP.NET Core | Entity Framework
+🚀 技术栈：C#/.NET | ASP.NET Core | Entity Framework Core
 
 🌱 持续学习：微服务架构 | Azure云原生
 
