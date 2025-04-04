@@ -6,3 +6,5 @@
 ## 🍨 相关内容
 - [我分享编程和生产力工具的博客](https://denglei1024.github.io/)
 
+)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denglei1024&layout=compact)
