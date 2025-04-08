@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, 我是邓磊 | 企业级后端开发者</h1>
+<h1 align="center">Hi👋, 我是邓磊 | 后端开发者</h1>
 
 🚀 技术栈：
 
