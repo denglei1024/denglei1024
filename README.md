@@ -7,5 +7,3 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-🌱 持续学习：微服务架构 | Azure云原生
-
