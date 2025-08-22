@@ -1,6 +1,4 @@
-<h1 align="center">Hi👋, 我是邓磊 | 后端开发者</h1>
-
-🚀 技术栈：
+<h1 align="center">Hi👋, I Like Coding.
 
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-blue&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
