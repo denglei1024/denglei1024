@@ -34,7 +34,7 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 Blog: https://cnblog.com/denglei1024
+- 🌐 Blog: https://cnblogs.com/denglei1024
 - 📫 Email: denglei1024@hotmail.com
 
 ---
