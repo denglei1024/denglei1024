@@ -32,44 +32,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Project Name 1
-> 简短描述：这个项目解决什么问题
-
-- ✨ Tech: .NET 7 / EF Core / Redis
-- 🔗 Link: https://github.com/yourname/project1
-
----
-
-### 🔹 Project Name 2
-> 简短描述：核心价值
-
-- ✨ Tech: ASP.NET Core / Docker
-- 🔗 Link: https://github.com/yourname/project2
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default" />
-</p>
-
----
-
-## ✍️ Latest Articles
-
-- 🧠 EF Core 深度解析系列
-- ⚡ .NET 性能优化实战
-- 🔍 Async/Await 原理拆解
-
----
-
 ## 🤝 Connect with Me
 
-- 🌐 Blog: https://yourblog.com
-- 📫 Email: your@email.com
+- 🌐 Blog: https://cnblog.com/denglei1024
+- 📫 Email: denglei1024@hotmail.com
 
 ---
 
